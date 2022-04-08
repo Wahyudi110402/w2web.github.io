@@ -1,3 +1,2 @@
 ## Web Portofolio
-
- - new libraray use : https://github.com/bagusindrayana/scrollpage-js
+https://wahyudi110402.github.io/w2web.github.io/
